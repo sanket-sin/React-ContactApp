@@ -7,7 +7,7 @@ const Header = () => {
             <h2 style={{marginLeft: "40%", marginTop:"5px"}}>Contact Manager</h2>
         </div>
     </div>
-    );
+    ); 
 };
 
 export default Header;
