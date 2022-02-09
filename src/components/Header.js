@@ -1,8 +1,8 @@
 import React from "react";
-//  asfafafsffafaf
+
 const Header = () => {
     return(
-    <div className="ui fixed menu">
+    <div className="ui fixed menu" style={{backgroundColor:"powderblue"}}>
         <div className="ui container center">
             <h2 style={{marginLeft: "40%", marginTop:"5px"}}>Contact Manager</h2>
         </div>
